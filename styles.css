@@ -1,0 +1,56 @@
+body{
+font-family:"Albert Sans";
+background-color:lightyellow;
+font-size:100%;
+color:black;
+min-height: 100vh;
+}
+
+.menu {
+position: fixed;
+top: 0;
+background-color:white
+}
+
+.Intro{
+color:lightgreen;
+text-decoration:underline;
+text-align:center;
+font-family:arial;
+}
+
+.AboutMe {
+color:lightblue;
+font-family:arial;
+}
+
+h3{
+text-decoration:underline
+}
+
+.HC {
+color:orange;
+font-family:Arial;
+text-align:left;
+}
+
+.classes {
+font-family:Arial;
+color:red;
+text-align:left
+}
+
+.whidsf {
+font-family:arial;
+color:magenta;
+}
+
+.goals {
+font-family:arial;
+color:green;
+text-align:centre;
+}
+
+tr:nth-child(even) {
+    background-color: #D6EEEE;
+  }
